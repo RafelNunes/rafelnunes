@@ -13,14 +13,14 @@ Minhas habilidades são construídas sobre um forte desempenho acadêmico (Médi
 ### Linguagens e Ferramentas
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens e Frameworks** | Java, JavaScript, React, HTML, CSS |
+| **Linguagens e Frameworks** | Java, JavaScript, HTML, CSS |
 | **Banco de Dados** | SQL, NoSQL |
 | **Fundamentos de TI** | Estrutura de Software, Engenharia de Software, Arquitetura de Computadores |
 | **Sistemas** | ERPs (Sistemas de Gestão), Análise de Processos e Dados |
 
 ---
 
-## 💼 Experiência Profissional (Transferível para TI)
+## 💼 Experiência Profissional
 
 Minha experiência em Finanças é minha vantagem, pois me deu proficiência em lidar com sistemas e integridade de dados:
 
@@ -33,5 +33,5 @@ Minha experiência em Finanças é minha vantagem, pois me deu proficiência em 
 ## 🎓 Formação Acadêmica
 
 **Sistemas de Informação** | *UNIVERSIDADE AVANTIS*
-* Status: Cursando, 4º Semestre
+* Status: Cursando, 6º Semestre
 * **Destaque Acadêmico:** Média Geral de **8,6** nas principais disciplinas técnicas.
